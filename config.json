@@ -1,0 +1,11 @@
+{
+    "auth" : {
+        "username" : "something@gmail.com",
+        "password" : "something"
+    },
+    "mail":{
+        "from" : "Something@gmail.com",
+        "subject" : "Please write the subject",
+        "text" : "Hey \n Please write the content here after \n. \n is the line break"
+    }
+}
